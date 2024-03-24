@@ -1,4 +1,4 @@
 
-# Welcome to Coding Fundamentals Repo.
+# Welcome to Coding Fundamentals Repository.
 
-![coding fundamentals thumb](./Images/funda-thumb.png)
+![coding fundamentals thumb](./Images/fundamental-thumb.png)
