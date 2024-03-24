@@ -1,4 +1,4 @@
 
-# Welcome to System Design Resources Repo.
+# Welcome to Coding Fundamentals Repo.
 
-![system design thumb](./Images/system-design.png)
+![coding fundamentals thumb](./Images/funda-thumb.png)
