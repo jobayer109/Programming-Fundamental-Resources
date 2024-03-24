@@ -1,7 +1,6 @@
 
-# All Live Class Links:
-* [Class - 1 : Orientation & Basics of System Design](https://drive.google.com/file/d/11C9Gma7zxLQvjyorV91Iblo32hMGRCxu/view?usp=sharing)
-* [Class - 2 : Application Architecture and Different Tiers](https://drive.google.com/file/d/1XMrQDw-UDDAm0o8rhHAQkiyyargGjbgD/view?usp=sharing)
-* [Class - 3 : Different Tiers and Client-Server Model](https://drive.google.com/file/d/1Ot_RsR9I3IV5aeQLk0A3i8UZlIHVsGDr/view?usp=sharing)
-* [Class - 4 : Vertical vs Horizontal Scaling](https://drive.google.com/file/d/1yx5_bDj1Sapj8PhKpT4gTQNheaIOE61Y/view?usp=sharing)
-* [Class - 5 : Basic Computer Networking](https://drive.google.com/file/d/1zA6VfAc7kfpd0NX6dGjEn9KOhGM3Aksj/view?usp=sharing)
+# All Live Class Recordings:
+* Orientation Class
+* [Class - 2 : Hello Programming with Replit Software](https://drive.google.com/drive/folders/1QjtoEZ_SlO0iBRAOWnVaXphLKI_0t6wj?usp=drive_link)
+* [Class - 3 : How Computer Run Your Code](https://drive.google.com/drive/folders/1V3TCuRV_u0BFkm8GCL0ygtci72Gd7-T3?usp=drive_link)
+* [Class - 4 : Introduction to Data-Types](https://drive.google.com/drive/folders/1tpAgbGQCPvqHWcjesTMCT10enY2gnJhC?usp=drive_link)
