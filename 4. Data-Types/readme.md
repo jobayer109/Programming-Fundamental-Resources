@@ -1,7 +1,7 @@
-# Introduce to Data Types
+# Introduction to Data Types
 
 ## `Live Class Links:`
-* [Live class - 4 : Introduce to Data Types](https://drive.google.com/drive/folders/1tpAgbGQCPvqHWcjesTMCT10enY2gnJhC?usp=drive_link)
+* [Live class - 4 : Introduction to Data Types](https://drive.google.com/drive/folders/1tpAgbGQCPvqHWcjesTMCT10enY2gnJhC?usp=drive_link)
 
 ## `Youtube Video Links:`
 * [Youtube](www.youtube.com)
