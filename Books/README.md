@@ -7,3 +7,4 @@
 
 ### Also You can read:
 * [ফুলস্ট্যাক ডেভেলপমেন্ট (কানেকটিং দ্য ডটস্) by এইচ এম নাঈম](https://www.rokomari.com/book/211527/fullstack-development)
+* [চ্যাট জিপিটি অ্যান্ড এ আই মিলিয়নেয়ার by মেহেদী হাসান রিফাত](https://www.rokomari.com/book/344471/chat-gpt-and-ai-millionaire)
