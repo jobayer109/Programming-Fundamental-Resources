@@ -6,3 +6,6 @@
 * [কোডিং ইন্টারভিউ : প্রস্তুতি, সমস্যা ও সমাধান by তামিম শাহরিয়ার সুবিন](https://www.rokomari.com/book/194284/coding-interview-prostuti-somosya-o-somadhan#)
 * [৫২টি প্রোগ্রামিং সমস্যা ও সমাধান  by তামিম শাহরিয়ার সুবিন](https://www.rokomari.com/book/112234/52-programming-problem-and-solution#)
 
+
+### Problem solving link:
+* [Need code](https://neetcode.io/roadmap)
