@@ -1,5 +1,6 @@
 
 # All Live Class Recordings:
+
 * [All live classes](https://drive.google.com/drive/u/2/folders/1CflqYZ_EL_sLsms6f8UCkHqlszbBrQmk)
 * [Class - 2 : Hello Programming with Replit Software](https://drive.google.com/drive/folders/1QjtoEZ_SlO0iBRAOWnVaXphLKI_0t6wj?usp=drive_link)
 * [Class - 3 : How Computer Run Your Code](https://drive.google.com/file/d/1SSvlmKYfPysz33SJzZ2yoKRNXo-XFF3-/view?usp=drive_link)
@@ -15,3 +16,4 @@
 * [Class - 11 : Modulus Operator](https://drive.google.com/file/d/1o0JuR4jintV993gOIk6yaZjfEsPDrKsG/view?usp=sharing)
 * [Class - 12 : Maths Header](https://drive.google.com/file/d/1JhOq4xAzyEuIA5ANDn_AEHfsXSNeHOiD/view?usp=sharing)
 * [Class - 13 : Reserve Keywords](https://drive.google.com/file/d/1X76ZXNPys2lzeKFSH8vdGMobuf-vTPfX/view?usp=sharing)
+* [Class - 14 : Logical Operators](https://drive.google.com/file/d/1e43pcYLXcbLqGiFT9-naeGL5wVBqP7I3/view?usp=sharing)
