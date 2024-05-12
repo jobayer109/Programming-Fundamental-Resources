@@ -10,3 +10,4 @@
 * [Class - 8.1 : Function class-1](https://drive.google.com/file/d/1n1HZhn29NGwjuWvhpnO7gsTqzxGHiUQW/view?usp=sharing)
 * [Class - 8.2 : Function class-2](https://drive.google.com/file/d/1S0oEK471JSZCkrjgiemTpXJjMe6WlWq9/view?usp=sharing)
 * [Class - 8.3 : Function class-3](https://drive.google.com/file/d/1okFuTT9SMHCsWNg7mnmBLAH5xJKnHwRu/view?usp=sharing)
+* [Class - 9 : Memory Address and Pointer](https://drive.google.com/file/d/1hMqyv5EsS0wY3QcOrnjJf2gCicP1H-aO/view?usp=sharing)
