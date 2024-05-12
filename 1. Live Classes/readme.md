@@ -13,3 +13,4 @@
 * [Class - 9 : Memory Address and Pointer](https://drive.google.com/file/d/1hMqyv5EsS0wY3QcOrnjJf2gCicP1H-aO/view?usp=sharing)
 * [Class - 10 : Using namespace std](https://drive.google.com/file/d/1G6WOzB_fwBDZgdweJXhqq1v7ISzbjRoI/view?usp=sharing)
 * [Class - 11 : Modulus Operator](https://drive.google.com/file/d/1o0JuR4jintV993gOIk6yaZjfEsPDrKsG/view?usp=sharing)
+* [Class - 12 : Maths Header](https://drive.google.com/file/d/1JhOq4xAzyEuIA5ANDn_AEHfsXSNeHOiD/view?usp=sharing)
