@@ -17,3 +17,5 @@
 * [Class - 12 : Maths Header](https://drive.google.com/file/d/1JhOq4xAzyEuIA5ANDn_AEHfsXSNeHOiD/view?usp=sharing)
 * [Class - 13 : Reserve Keywords](https://drive.google.com/file/d/1X76ZXNPys2lzeKFSH8vdGMobuf-vTPfX/view?usp=sharing)
 * [Class - 14 : Logical Operators](https://drive.google.com/file/d/1e43pcYLXcbLqGiFT9-naeGL5wVBqP7I3/view?usp=sharing)
+* [Class - 15 : Function class recap](https://drive.google.com/file/d/1mRHDElQFSXqJM2KdVDan2g1WYPTjbkfP/view?usp=sharing)
+
