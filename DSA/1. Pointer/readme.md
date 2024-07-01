@@ -1,4 +1,4 @@
-# Pinter
+# Pointer
 
 ### `Live Class Links:`
 
