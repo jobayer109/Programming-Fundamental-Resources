@@ -1,5 +1,7 @@
 # All Live Class Recordings:
 
+## Fundamentals
+
 - [All live classes](https://drive.google.com/drive/u/2/folders/1CflqYZ_EL_sLsms6f8UCkHqlszbBrQmk)
 - [Class - 2 : Hello Programming with Replit Software](https://drive.google.com/drive/folders/1QjtoEZ_SlO0iBRAOWnVaXphLKI_0t6wj?usp=drive_link)
 - [Class - 3 : How Computer Run Your Code](https://drive.google.com/file/d/1SSvlmKYfPysz33SJzZ2yoKRNXo-XFF3-/view?usp=drive_link)
@@ -19,3 +21,10 @@
 - [Class - 15 : Function class recap](https://drive.google.com/file/d/1mRHDElQFSXqJM2KdVDan2g1WYPTjbkfP/view?usp=sharing)
 - [Class - 16.1 : For loop and Logic building](https://drive.google.com/file/d/1anqXAKhqWjElISKOmriAdwMuAJmbMS7K/view?usp=sharing)
 - [Class - 16.2 : Logic building](https://drive.google.com/file/d/1S-3wQLGTx5PaKGJ9Pf9CxmMltPV9AEVJ/view?usp=sharing)
+
+---
+
+## Data Structure and Algorithm (DSA)
+
+- [Class - 1 : Pointer](https://drive.google.com/file/d/1SzWrW1oNkhtDmXtr7h4mlvNdwru0DGhm/view?usp=drive_link)
+- [Class - 2 : Stack](https://drive.google.com/file/d/1lyLp3WcerHPvzY8mWbjNLPQXdNwdQoLN/view?usp=sharing)
