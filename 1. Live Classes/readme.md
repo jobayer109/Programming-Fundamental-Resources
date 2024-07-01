@@ -26,5 +26,5 @@
 
 ## Data Structure and Algorithm (DSA)
 
-- [Class - 1 : Pointer](https://drive.google.com/file/d/1SzWrW1oNkhtDmXtr7h4mlvNdwru0DGhm/view?usp=drive_link)
-- [Class - 2 : Stack](https://drive.google.com/file/d/1lyLp3WcerHPvzY8mWbjNLPQXdNwdQoLN/view?usp=sharing)
+- [Class - 1 : Pointer](https://drive.google.com/file/d/1lyLp3WcerHPvzY8mWbjNLPQXdNwdQoLN/view?usp=sharing)
+- [Class - 2 : Stack](https://drive.google.com/file/d/1SzWrW1oNkhtDmXtr7h4mlvNdwru0DGhm/view?usp=drive_link)
