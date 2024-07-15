@@ -1,8 +1,8 @@
-# Stack
+# Queue Introduction
 
 ### `Live Class Links:`
 
-- [Class - 2 : Stack](https://drive.google.com/file/d/1SzWrW1oNkhtDmXtr7h4mlvNdwru0DGhm/view?usp=drive_link)
+- [Class - 3 : Queue Introduction](https://drive.google.com/file/d/1fk2mHVsAp9FAdc1DwUG14p5iKS5wKV62/view?usp=drive_link)
 
 ### `Youtube Links:`
 
