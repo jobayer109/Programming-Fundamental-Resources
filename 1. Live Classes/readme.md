@@ -30,4 +30,4 @@
 - [Class - 2 : Stack](https://drive.google.com/file/d/1SzWrW1oNkhtDmXtr7h4mlvNdwru0DGhm/view?usp=drive_link)
 - [Class - 3 : Queue Introduction](https://drive.google.com/file/d/1fk2mHVsAp9FAdc1DwUG14p5iKS5wKV62/view?usp=drive_link)
 - [Class - 4 : Queue Implementation](https://drive.google.com/drive/folders/13vpXh4tHbV2HUxZtiA3-jEgR6ZljF1yq?usp=drive_link)
-- [Class - 5 : Stack]()
+- [Class - 5 : Pass by value, pass by Reference, Custom Data Type](https://drive.google.com/drive/folders/13hMJ9y9s4BCBwjrfG3xyjB1Ta-CSWT6A?usp=drive_link)
