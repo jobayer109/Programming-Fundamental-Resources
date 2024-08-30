@@ -41,3 +41,9 @@
 
 - [Live class - 1 : OOP Introduction](https://drive.google.com/drive/folders/19yMhY1FCB8sL9_DimwgiwdwU8OrOZ1oF)
 - [Live class - 2 : OOP - Part Two](https://drive.google.com/drive/folders/1Einu1fMcEPy57JAn2-blvNKm4DE_08kS)
+
+---
+
+## Career Related Class:
+
+- [Live class - 1 : How to get a Job](https://drive.google.com/drive/folders/1SYQ_w4kK5BhkiEKRBHjymeSUAJ7eJSrt)
